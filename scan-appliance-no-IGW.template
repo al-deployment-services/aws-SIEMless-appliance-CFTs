@@ -108,64 +108,88 @@
     "Mappings": {
         "AWSRegionAMI": {
             "us-east-1": {
-                "US": "ami-0b35743e831becad1",
-                "UK": "ami-0b35743e831becad1"
+                "US": "ami-063fb3ea2393804df",
+                "UK": "ami-063fb3ea2393804df"
             },
             "us-east-2": {
-                "US": "ami-00d46562af87f9209",
-                "UK": "ami-00d46562af87f9209"
+                "US": "ami-04ddd5c786bd4376e",
+                "UK": "ami-04ddd5c786bd4376e"
             },
             "us-west-2": {
-                "US": "ami-01651323b6338e70b",
-                "UK": "ami-01651323b6338e70b"
+                "US": "ami-0c11c7c5f75a8d724",
+                "UK": "ami-0c11c7c5f75a8d724"
             },
             "us-west-1": {
-                "US": "ami-02db305d04e11d40b",
-                "UK": "ami-02db305d04e11d40b"
+                "US": "ami-09526826ceeda44ef",
+                "UK": "ami-09526826ceeda44ef"
             },
             "eu-west-1": {
-                "US": "ami-0fca75afdd4b43b58",
-                "UK": "ami-0fca75afdd4b43b58"
+                "US": "ami-0574ab19b7a2ba70a",
+                "UK": "ami-0574ab19b7a2ba70a"
             },
             "eu-west-2": {
-                "US": "ami-0cccfea5d111b17f4",
-                "UK": "ami-0cccfea5d111b17f4"
+                "US": "ami-0279cfea84cb2b524",
+                "UK": "ami-0279cfea84cb2b524"
             },
             "eu-west-3": {
-                "US": "ami-0472090cd7e0b2d9e",
-                "UK": "ami-0472090cd7e0b2d9e"
+                "US": "ami-0cdb23dcb2e6ed9c6",
+                "UK": "ami-0cdb23dcb2e6ed9c6"
+            },
+            "eu-north-1": {
+                "US": "ami-0d6a305ce9082582c",
+                "UK": "ami-0d6a305ce9082582c"
+            },
+            "eu-south-1": {
+                "US": "ami-0d6a305ce9082582c",
+                "UK": "ami-0d6a305ce9082582c"
             },
             "eu-central-1": {
-                "US": "ami-075f103b9b7d6c2fe",
-                "UK": "ami-075f103b9b7d6c2fe"
+                "US": "ami-0701940c7f77f67e9",
+                "UK": "ami-0701940c7f77f67e9"
             },
             "ap-northeast-1": {
-                "US": "ami-00f06755223327782",
-                "UK": "ami-00f06755223327782"
+                "US": "ami-00e5e1236a0190e66",
+                "UK": "ami-00e5e1236a0190e66"
             },
             "ap-northeast-2": {
-                "US": "ami-02914a21d67a3d422",
-                "UK": "ami-02914a21d67a3d422"
+                "US": "ami-03fc3c943a0fcf4eb",
+                "UK": "ami-03fc3c943a0fcf4eb"
+            },
+            "ap-northeast-3": {
+                "US": "ami-06ca9da8de3492fb6",
+                "UK": "ami-06ca9da8de3492fb6"
             },
             "ap-southeast-1": {
-                "US": "ami-06007137c7dad1ef6",
-                "UK": "ami-06007137c7dad1ef6"
+                "US": "ami-0e8e751b535af705a",
+                "UK": "ami-0e8e751b535af705a"
             },
             "ap-southeast-2": {
-                "US": "ami-02910709a8a3d1d40",
-                "UK": "ami-02910709a8a3d1d40"
+                "US": "ami-01177067d2dd75c05",
+                "UK": "ami-01177067d2dd75c05"
             },
             "ap-south-1": {
-                "US": "ami-01497ed57020df9a1",
-                "UK": "ami-01497ed57020df9a1"
+                "US": "ami-02bd0ec08a2c29899",
+                "UK": "ami-02bd0ec08a2c29899"
+            },
+            "ap-east-1": {
+                "US": "ami-00491099c15632859",
+                "UK": "ami-00491099c15632859"
             },
             "sa-east-1": {
-                "US": "ami-09f538166c4483f6c",
-                "UK": "ami-09f538166c4483f6c"
+                "US": "ami-0934de1d8021e00c3",
+                "UK": "ami-0934de1d8021e00c3"
             },
             "ca-central-1": {
-                "US": "ami-06ff0915aea36b0c5",
-                "UK": "ami-06ff0915aea36b0c5"
+                "US": "ami-0a26524cdfecbd852",
+                "UK": "ami-0a26524cdfecbd852"
+            },
+            "me-south-1": {
+                "US": "ami-00b5e759c3493e271",
+                "UK": "ami-00b5e759c3493e271"
+            },
+            "af-south-1": {
+                "US": "ami-0159f0cdf073852b7",
+                "UK": "ami-0159f0cdf073852b7"
             }
         },
         "Vaporators": {
